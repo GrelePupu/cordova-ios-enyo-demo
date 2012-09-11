@@ -1,0 +1,654 @@
+TCordovaIosEnyo
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Info.plist CordovaIosEnyo/CordovaIosEnyo-Info.plist
+cPhaseScriptExecution "Touch www folder" /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Script-304B58A110DAC018002A0835.sh
+cCpResource www cordova/../build/CordovaIosEnyo.app/www
+cCopyPlistFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Cordova.plist CordovaIosEnyo/Resources/../Cordova.plist
+cCpResource CordovaIosEnyo/Resources/icons/icon-72.png cordova/../build/CordovaIosEnyo.app/icon-72.png
+cCpResource CordovaIosEnyo/Resources/icons/icon.png cordova/../build/CordovaIosEnyo.app/icon.png
+cCpResource CordovaIosEnyo/Resources/icons/icon@2x.png cordova/../build/CordovaIosEnyo.app/icon@2x.png
+cCpResource CordovaIosEnyo/Resources/Capture.bundle cordova/../build/CordovaIosEnyo.app/Capture.bundle
+cCopyStringsFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/en.lproj/Localizable.strings CordovaIosEnyo/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/es.lproj/Localizable.strings CordovaIosEnyo/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.xib
+cCopyStringsFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/de.lproj/Localizable.strings CordovaIosEnyo/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/se.lproj/Localizable.strings CordovaIosEnyo/Resources/se.lproj/Localizable.strings
+cCpResource CordovaIosEnyo/Resources/splash/Default-Landscape@2x~ipad.png cordova/../build/CordovaIosEnyo.app/Default-Landscape@2x~ipad.png
+cCpResource CordovaIosEnyo/Resources/splash/Default-Landscape~ipad.png cordova/../build/CordovaIosEnyo.app/Default-Landscape~ipad.png
+cCpResource CordovaIosEnyo/Resources/splash/Default-Portrait@2x~ipad.png cordova/../build/CordovaIosEnyo.app/Default-Portrait@2x~ipad.png
+cCpResource CordovaIosEnyo/Resources/splash/Default-Portrait~ipad.png cordova/../build/CordovaIosEnyo.app/Default-Portrait~ipad.png
+cCpResource CordovaIosEnyo/Resources/splash/Default@2x~iphone.png cordova/../build/CordovaIosEnyo.app/Default@2x~iphone.png
+cCpResource CordovaIosEnyo/Resources/splash/Default~iphone.png cordova/../build/CordovaIosEnyo.app/Default~iphone.png
+cProcessPCH /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch.pth CordovaIosEnyo/CordovaIosEnyo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/main.o /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/AppDelegate.o /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/MainViewController.o /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo normal i386
+cGenerateDSYMFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app.dSYM /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo
+cTouch /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000503E7AFA0000000000182900
+t1346271994
+s1583360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000503E7AF90000000000095860
+t1346271993
+s612448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c00000000503E7AF90000000000169880
+t1346271993
+s1480832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000503E7AFA00000000002FDC30
+t1346271994
+s3136560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000503E7AFB00000000002051E0
+t1346271995
+s2118112
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000503E7AFB0000000000244490
+t1346271995
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000503E7AFB0000000000089510
+t1346271995
+s562448
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000503E7AFB0000000000069670
+t1346271995
+s431728
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000503E7AFF0000000000353830
+t1346271999
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000503E7B030000000000243A90
+t1346272003
+s2374288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000503E7B0400000000000998D0
+t1346272004
+s628944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000503E7B0400000000001AB190
+t1346272004
+s1749392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000503E7B04000000000006C8A0
+t1346272004
+s444576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000503E7B080000000000905E40
+t1346272008
+s9461312
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.h
+c00000000504F859700000000000005CB
+t1347388823
+s1483
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m
+c00000000504F859700000000000015C7
+t1347388823
+s5575
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.h
+c00000000504F85970000000000000415
+t1347388823
+s1045
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m
+c00000000504F8597000000000000113F
+t1347388823
+s4415
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.xib
+c00000000504F85960000000000001759
+t1347388822
+s5977
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/CordovaIosEnyo-Prefix.pch
+c00000000504F859800000000000003CD
+t1347388824
+s973
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/../Cordova.plist
+c00000000504F85960000000000000979
+t1347388822
+s2425
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/Capture.bundle
+c00000000504F859600000000000002EC
+t1347388822
+s748
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/de.lproj/Localizable.strings
+c00000000504F85960000000000000485
+t1347388822
+s1157
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/en.lproj/Localizable.strings
+c00000000504F85960000000000000470
+t1347388822
+s1136
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/es.lproj/Localizable.strings
+c00000000504F8596000000000000047D
+t1347388822
+s1149
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/icons/icon-72.png
+c00000000504F85970000000000001350
+t1347388823
+s4944
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/icons/icon.png
+c00000000504F85970000000000000F3E
+t1347388823
+s3902
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/icons/icon@2x.png
+c00000000504F85970000000000001EBD
+t1347388823
+s7869
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/se.lproj/Localizable.strings
+c00000000504F85970000000000000471
+t1347388823
+s1137
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000504F85970000000000176888
+t1347388823
+s1534088
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default-Landscape~ipad.png
+c00000000504F859700000000000674B7
+t1347388823
+s423095
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000504F859700000000001892C2
+t1347388823
+s1610434
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default-Portrait~ipad.png
+c00000000504F85970000000000066F23
+t1347388823
+s421667
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default@2x~iphone.png
+c00000000504F85970000000000055981
+t1347388823
+s350593
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default~iphone.png
+c00000000504F85970000000000016EC9
+t1347388823
+s93897
+
+N/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/main.m
+c00000000504F85970000000000000459
+t1347388823
+s1113
+
+N/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/CordovaIosEnyo.LinkFileList
+c00000000504F878900000000000001B3
+t1347389321
+s435
+
+N/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Script-304B58A110DAC018002A0835.sh
+c00000000504F87890000000000000027
+t1347389321
+s39
+
+N/Users/phil/src/cordova/cordova-ios-enyo/build/libCordova.a
+c00000000504F878900000000002C0E70
+t1347389321
+s2887280
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app.dSYM
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Capture.bundle
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Cordova.plist
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default@2x~iphone.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default~iphone.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Info.plist
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/MainViewController.nib
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/PkgInfo
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/icon-72.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/icon.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/icon@2x.png
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/www
+t2
+s0
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/CDVCommandDelegate.h
+c00000000504F85DF0000000000000455
+t1347388895
+s1109
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/CDVCordovaView.h
+c00000000504F85DF0000000000000355
+t1347388895
+s853
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/CDVInvokedUrlCommand.h
+c00000000504F85DE00000000000006E6
+t1347388894
+s1766
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/CDVPlugin.h
+c00000000504F85DE00000000000007E5
+t1347388894
+s2021
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/CDVPluginResult.h
+c00000000504F85DE000000000000098A
+t1347388894
+s2442
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/CDVViewController.h
+c00000000504F85DE00000000000009B0
+t1347388894
+s2480
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/CDVWhitelist.h
+c00000000504F85DE00000000000004B0
+t1347388894
+s1200
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/JSONKit.h
+c00000000504F85DE0000000000002F5E
+t1347388894
+s12126
+
+N/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include/Cordova/NSMutableArray+QueueAdditions.h
+c00000000504F85DE00000000000003A7
+t1347388894
+s935
+
+N/Users/phil/src/cordova/cordova-ios-enyo/www
+c00000000504F87550000000000000110
+t1347389269
+s272
+
+N/var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch.pth
+t2
+s0
+
+NCordovaIosEnyo/CordovaIosEnyo-Info.plist
+c00000000504F859800000000000009D2
+t1347388824
+s2514
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies179f7a09bfffb541^992a8c09bfffb541^---0#1#0#--18"Check dependencies36"4A78FCAA-A20E-46E5-A14F-11A617BD2C45-
+
+CCompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/AppDelegate.o /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369082133.391161
+e369082133.533684
+r1
+xCompileC
+xbuild/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/AppDelegate.o
+x/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m:73:25: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]
+o    self.viewController.invokeString = invokeString;
+o                        ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.mbf446415bfffb541^e0a18815bfffb541^-251"/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m:73:25: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]    self.viewController.invokeString = invokeString;                        ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@28"'invokeString' is deprecated-369082133#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@93"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m0000000000000000^72#24#72#24#2389#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@93"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m0000000000000000^3893"CompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/AppDelegate.o CordovaIosEnyo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-generated-files.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-own-target-headers.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-all-target-headers.hmap -iquote /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-project-headers.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/usr/local/lib/include -I/Users/phil/src/cordova/cordova-ios-enyo/build/UninstalledProducts/include -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources/i386 -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources -F/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -include /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch -MMD -MT dependencies -MF /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/AppDelegate.dia -c /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/AppDelegate.m -o /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/AppDelegate.o36"51680566-E374-4320-A672-4691B2E75C6E-
+
+CCompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/MainViewController.o /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369082133.434326
+e369082133.529737
+r1
+xCompileC
+xbuild/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/MainViewController.o
+x/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m:117:15: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]
+o     if (self.invokeString)
+o              ^
+o/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m:121:93: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]
+o        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];
+o                                                                                            ^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m5a646f15bfffb541^2db08715bfffb541^-585"/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m:117:15: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]     if (self.invokeString)              ^/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m:121:93: warning: 'invokeString' is deprecated [-Wdeprecated-declarations]        NSString* jsString = [NSString stringWithFormat:@"var invokeString = \"%@\";", self.invokeString];                                                                                            ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@28"'invokeString' is deprecated-369082133#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@100"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m0000000000000000^116#14#116#14#3172#0#12"Deprecations--2@28"'invokeString' is deprecated-369082133#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@100"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m0000000000000000^120#92#120#92#3582#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@100"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m0000000000000000^3935"CompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/MainViewController.o CordovaIosEnyo/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-generated-files.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-own-target-headers.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-all-target-headers.hmap -iquote /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-project-headers.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/usr/local/lib/include -I/Users/phil/src/cordova/cordova-ios-enyo/build/UninstalledProducts/include -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources/i386 -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources -F/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -include /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch -MMD -MT dependencies -MF /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/MainViewController.dia -c /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.m -o /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/MainViewController.o36"FF54F2FC-E91E-4F3D-A5C5-E151282420E9-
+
+CCompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/main.o /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369082133.390501
+e369082133.432912
+r1
+xCompileC
+xbuild/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/main.o
+x/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/main.m21236415bfffb541^1de76e15bfffb541^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/main.m0000000000000000^3835"CompileC build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/main.o CordovaIosEnyo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-generated-files.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-own-target-headers.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-all-target-headers.hmap -iquote /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-project-headers.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/usr/local/lib/include -I/Users/phil/src/cordova/cordova-ios-enyo/build/UninstalledProducts/include -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources/i386 -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources -F/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -include /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch -MMD -MT dependencies -MF /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/main.dia -c /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/main.m -o /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/main.o36"2AB78FE8-DD0E-49C6-9ED7-02E764C84651-
+
+CCompileXIB /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.xib
+s369082122.040043
+e369082132.962280
+r1
+xCompileXIB
+x/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.xib755b0a0abfffb541^556af614bfffb541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.xib0000000000000000^1132"CompileXIB CordovaIosEnyo/Classes/MainViewController.xib    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/MainViewController.nib /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"3D1E0295-A823-42C2-832E-61225CCD628F-
+
+CCopyPlistFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Cordova.plist CordovaIosEnyo/Resources/../Cordova.plist
+s369082121.652433
+e369082121.702297
+r1
+xCopyPlistFile
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Cordova.plist
+xCordovaIosEnyo/Resources/../Cordova.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy CordovaIosEnyo/Resources/../Cordova.plistef1ba709bfffb541^84d6b309bfffb541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/../Cordova.plist0000000000000000^721"CopyPlistFile cordova/../build/CordovaIosEnyo.app/Cordova.plist CordovaIosEnyo/Resources/../Cordova.plist    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyPlist --convert binary1 --outdir /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app -- CordovaIosEnyo/Resources/../Cordova.plist36"03C1E97E-0EEB-434B-93FD-C27BB5A1F56D-
+
+CCopyStringsFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/de.lproj/Localizable.strings CordovaIosEnyo/Resources/de.lproj/Localizable.strings
+s369082123.337793
+e369082123.355152
+r1
+xCopyStringsFile
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/de.lproj/Localizable.strings
+xCordovaIosEnyo/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy CordovaIosEnyo/Resources/de.lproj/Localizable.stringsbc90560bbfffb541^afec5a0bbfffb541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/de.lproj/Localizable.strings0000000000000000^812"CopyStringsFile cordova/../build/CordovaIosEnyo.app/de.lproj/Localizable.strings CordovaIosEnyo/Resources/de.lproj/Localizable.strings    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/de.lproj -- CordovaIosEnyo/Resources/de.lproj/Localizable.strings36"39C1ADCF-6EFC-48A9-8426-25CE5979A94D-
+
+CCopyStringsFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/en.lproj/Localizable.strings CordovaIosEnyo/Resources/en.lproj/Localizable.strings
+s369082121.950510
+e369082121.963521
+r1
+xCopyStringsFile
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/en.lproj/Localizable.strings
+xCordovaIosEnyo/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy CordovaIosEnyo/Resources/en.lproj/Localizable.strings8e73f309bfffb541^9faaf609bfffb541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/en.lproj/Localizable.strings0000000000000000^812"CopyStringsFile cordova/../build/CordovaIosEnyo.app/en.lproj/Localizable.strings CordovaIosEnyo/Resources/en.lproj/Localizable.strings    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/en.lproj -- CordovaIosEnyo/Resources/en.lproj/Localizable.strings36"71AB7C95-3EB8-4087-B314-296AD958552B-
+
+CCopyStringsFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/es.lproj/Localizable.strings CordovaIosEnyo/Resources/es.lproj/Localizable.strings
+s369082121.964841
+e369082122.038727
+r1
+xCopyStringsFile
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/es.lproj/Localizable.strings
+xCordovaIosEnyo/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy CordovaIosEnyo/Resources/es.lproj/Localizable.strings2218f709bfffb541^21060a0abfffb541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/es.lproj/Localizable.strings0000000000000000^812"CopyStringsFile cordova/../build/CordovaIosEnyo.app/es.lproj/Localizable.strings CordovaIosEnyo/Resources/es.lproj/Localizable.strings    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/es.lproj -- CordovaIosEnyo/Resources/es.lproj/Localizable.strings36"FA2A6788-B06B-4F3A-8311-86C983A20D7E-
+
+CCopyStringsFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/se.lproj/Localizable.strings CordovaIosEnyo/Resources/se.lproj/Localizable.strings
+s369082123.356491
+e369082123.414377
+r1
+xCopyStringsFile
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/se.lproj/Localizable.strings
+xCordovaIosEnyo/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy CordovaIosEnyo/Resources/se.lproj/Localizable.strings925b5b0bbfffb541^72166a0bbfffb541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/se.lproj/Localizable.strings0000000000000000^812"CopyStringsFile cordova/../build/CordovaIosEnyo.app/se.lproj/Localizable.strings CordovaIosEnyo/Resources/se.lproj/Localizable.strings    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/se.lproj -- CordovaIosEnyo/Resources/se.lproj/Localizable.strings36"89F67DA8-196E-4D48-915B-C60FC017A79A-
+
+CCpResource CordovaIosEnyo/Resources/Capture.bundle cordova/../build/CordovaIosEnyo.app/Capture.bundle
+s369082121.889750
+e369082123.336494
+r1
+xCpResource
+xCordovaIosEnyo/Resources/Capture.bundle
+xcordova/../build/CordovaIosEnyo.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy cordova/../build/CordovaIosEnyo.app/Capture.bundle22e1e309bfffb541^d925560bbfffb541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Capture.bundle000000000080d041^816"CpResource CordovaIosEnyo/Resources/Capture.bundle cordova/../build/CordovaIosEnyo.app/Capture.bundle    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/Capture.bundle /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"69C2298E-0C58-4759-B6B6-2677F598102E-
+
+CCpResource CordovaIosEnyo/Resources/icons/icon-72.png cordova/../build/CordovaIosEnyo.app/icon-72.png
+s369082121.703618
+e369082121.841617
+r1
+xCpResource
+xCordovaIosEnyo/Resources/icons/icon-72.png
+xcordova/../build/CordovaIosEnyo.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy cordova/../build/CordovaIosEnyo.app/icon-72.png643ab409bfffb541^4f76d709bfffb541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/icon-72.png000000000080d041^819"CpResource CordovaIosEnyo/Resources/icons/icon-72.png cordova/../build/CordovaIosEnyo.app/icon-72.png    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/icons/icon-72.png /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"CE0B2DB9-D7C7-4B47-8A44-45C77FFC3EC9-
+
+CCpResource CordovaIosEnyo/Resources/icons/icon.png cordova/../build/CordovaIosEnyo.app/icon.png
+s369082121.842911
+e369082121.888454
+r1
+xCpResource
+xCordovaIosEnyo/Resources/icons/icon.png
+xcordova/../build/CordovaIosEnyo.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy cordova/../build/CordovaIosEnyo.app/icon.png22e1d709bfffb541^d672e309bfffb541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/icon.png000000000080d041^810"CpResource CordovaIosEnyo/Resources/icons/icon.png cordova/../build/CordovaIosEnyo.app/icon.png    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/icons/icon.png /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"F51FFBA7-3241-4C97-A708-2D3BFA533773-
+
+CCpResource CordovaIosEnyo/Resources/icons/icon@2x.png cordova/../build/CordovaIosEnyo.app/icon@2x.png
+s369082121.885588
+e369082121.949182
+r1
+xCpResource
+xCordovaIosEnyo/Resources/icons/icon@2x.png
+xcordova/../build/CordovaIosEnyo.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy cordova/../build/CordovaIosEnyo.app/icon@2x.pngc8cfe209bfffb541^19fff209bfffb541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/icon@2x.png000000000080d041^825"CpResource "CordovaIosEnyo/Resources/icons/icon@2x.png" "cordova/../build/CordovaIosEnyo.app/icon@2x.png"    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/icons/icon@2x.png" /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"4E8FA9E7-71C7-4A78-9F59-E9A5C3DBBC55-
+
+CCpResource CordovaIosEnyo/Resources/splash/Default-Landscape@2x~ipad.png cordova/../build/CordovaIosEnyo.app/Default-Landscape@2x~ipad.png
+s369082123.415764
+e369082123.531120
+r1
+xCpResource
+xCordovaIosEnyo/Resources/splash/Default-Landscape@2x~ipad.png
+xcordova/../build/CordovaIosEnyo.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy cordova/../build/CordovaIosEnyo.app/Default-Landscape@2x~ipad.png31956a0bbfffb541^5b06880bbfffb541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default-Landscape@2x~ipad.png000000000080d041^881"CpResource "CordovaIosEnyo/Resources/splash/Default-Landscape@2x~ipad.png" "cordova/../build/CordovaIosEnyo.app/Default-Landscape@2x~ipad.png"    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default-Landscape@2x~ipad.png" /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"8D49EA5B-CC2C-4A36-B0B1-62BF96C46C51-
+
+CCpResource CordovaIosEnyo/Resources/splash/Default-Landscape~ipad.png cordova/../build/CordovaIosEnyo.app/Default-Landscape~ipad.png
+s369082123.532389
+e369082123.702621
+r1
+xCpResource
+xCordovaIosEnyo/Resources/splash/Default-Landscape~ipad.png
+xcordova/../build/CordovaIosEnyo.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy cordova/../build/CordovaIosEnyo.app/Default-Landscape~ipad.png1364880bbfffb541^e9edb30bbfffb541^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default-Landscape~ipad.png000000000080d041^872"CpResource "CordovaIosEnyo/Resources/splash/Default-Landscape~ipad.png" "cordova/../build/CordovaIosEnyo.app/Default-Landscape~ipad.png"    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default-Landscape~ipad.png" /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"A5F898B6-89E6-4912-A36E-DD08BEAC94F6-
+
+CCpResource CordovaIosEnyo/Resources/splash/Default-Portrait@2x~ipad.png cordova/../build/CordovaIosEnyo.app/Default-Portrait@2x~ipad.png
+s369082123.703916
+e369082123.818663
+r1
+xCpResource
+xCordovaIosEnyo/Resources/splash/Default-Portrait@2x~ipad.png
+xcordova/../build/CordovaIosEnyo.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy cordova/../build/CordovaIosEnyo.app/Default-Portrait@2x~ipad.png1151b40bbfffb541^98a1d10bbfffb541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default-Portrait@2x~ipad.png000000000080d041^878"CpResource "CordovaIosEnyo/Resources/splash/Default-Portrait@2x~ipad.png" "cordova/../build/CordovaIosEnyo.app/Default-Portrait@2x~ipad.png"    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default-Portrait@2x~ipad.png" /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"8231A9D1-E233-4C48-91BD-EC1579E37140-
+
+CCpResource CordovaIosEnyo/Resources/splash/Default-Portrait~ipad.png cordova/../build/CordovaIosEnyo.app/Default-Portrait~ipad.png
+s369082123.819921
+e369082124.208617
+r1
+xCpResource
+xCordovaIosEnyo/Resources/splash/Default-Portrait~ipad.png
+xcordova/../build/CordovaIosEnyo.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy cordova/../build/CordovaIosEnyo.app/Default-Portrait~ipad.png070cd20bbfffb541^9069350cbfffb541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default-Portrait~ipad.png000000000080d041^869"CpResource "CordovaIosEnyo/Resources/splash/Default-Portrait~ipad.png" "cordova/../build/CordovaIosEnyo.app/Default-Portrait~ipad.png"    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default-Portrait~ipad.png" /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"B11B3614-297D-4DB9-856A-57CDEFC94124-
+
+CCpResource CordovaIosEnyo/Resources/splash/Default@2x~iphone.png cordova/../build/CordovaIosEnyo.app/Default@2x~iphone.png
+s369082124.209958
+e369082124.423267
+r1
+xCpResource
+xCordovaIosEnyo/Resources/splash/Default@2x~iphone.png
+xcordova/../build/CordovaIosEnyo.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy cordova/../build/CordovaIosEnyo.app/Default@2x~iphone.pngedd7350cbfffb541^795c6c0cbfffb541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default@2x~iphone.png000000000080d041^857"CpResource "CordovaIosEnyo/Resources/splash/Default@2x~iphone.png" "cordova/../build/CordovaIosEnyo.app/Default@2x~iphone.png"    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default@2x~iphone.png" /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"8BB6F02F-FF30-42C1-9CBB-DDB6F0BC0232-
+
+CCpResource CordovaIosEnyo/Resources/splash/Default~iphone.png cordova/../build/CordovaIosEnyo.app/Default~iphone.png
+s369082124.424578
+e369082124.468822
+r1
+xCpResource
+xCordovaIosEnyo/Resources/splash/Default~iphone.png
+xcordova/../build/CordovaIosEnyo.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy cordova/../build/CordovaIosEnyo.app/Default~iphone.png8acc6c0cbfffb541^431b780cbfffb541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Default~iphone.png000000000080d041^848"CpResource "CordovaIosEnyo/Resources/splash/Default~iphone.png" "cordova/../build/CordovaIosEnyo.app/Default~iphone.png"    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/Resources/splash/Default~iphone.png" /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"9FBB195F-02A0-4EED-91E5-2CC16287FE28-
+
+CCpResource www cordova/../build/CordovaIosEnyo.app/www
+s369082121.651866
+e369082121.884170
+r1
+xCpResource
+xwww
+xcordova/../build/CordovaIosEnyo.app/www
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy cordova/../build/CordovaIosEnyo.app/www76f9a609bfffb541^9966e209bfffb541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/www000000000080d041^733"CpResource www cordova/../build/CordovaIosEnyo.app/www    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/phil/src/cordova/cordova-ios-enyo/www /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"07B6A60B-848C-4B51-89DD-D6C87001FC63-
+
+CGenerateDSYMFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app.dSYM /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo
+s369082134.208749
+e369082134.437614
+r1
+xGenerateDSYMFile
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app.dSYM
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Generating /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app.dSYMa88a3516bfffb541^a9137016bfffb541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app.dSYM000000000080d041^830"GenerateDSYMFile cordova/../build/CordovaIosEnyo.app.dSYM cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo -o /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app.dSYM36"AA63F9EC-15A2-4051-B081-6B374A297968-
+
+CLd /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo normal i386
+s369082133.540462
+e369082134.201844
+r1
+xLd
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Link /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyoea7a8a15bfffb541^5cad3316bfffb541^---0#0#0#--1868"Ld cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo normal i386    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -F/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -filelist /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/CordovaIosEnyo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 /Users/phil/src/cordova/cordova-ios-enyo/build/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -o /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/CordovaIosEnyo36"B67F0BD5-4450-4D0F-82D8-557D13EC3BF8-
+
+CPhaseScriptExecution "Touch www folder" /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Script-304B58A110DAC018002A0835.sh
+s369082121.587670
+e369082121.644055
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Script-304B58A110DAC018002A0835.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Run custom shell script 'Touch www folder'ad6b9809bfffb541^87e0a409bfffb541^---0#0#0#--20790"PhaseScriptExecution "Touch www folder" build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Script-304B58A110DAC018002A0835.sh    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER phil    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/phil/src/cordova/cordova-ios-enyo/build    setenv BUILD_ROOT /Users/phil/src/cordova/cordova-ios-enyo/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build    setenv CACHE_ROOT /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502    setenv CCHROOT /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_OBJCPP_ARC_ABI YES    setenv CLASS_FILE_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build    setenv CONFIGURATION_TEMP_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH CordovaIosEnyo.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CORDOVALIB /Users/phil/Documents/CordovaLib    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH CordovaIosEnyo.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/CordovaIosEnyo.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME CordovaIosEnyo.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH CordovaIosEnyo.app/Executables    setenv EXECUTABLE_FOLDER_PATH CordovaIosEnyo.app    setenv EXECUTABLE_NAME CordovaIosEnyo    setenv EXECUTABLE_PATH CordovaIosEnyo.app/CordovaIosEnyo    setenv FILE_LIST /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH CordovaIosEnyo.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME CordovaIosEnyo.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER CordovaIosEnyo/CordovaIosEnyo-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include\" \"/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/usr/local/lib/include\" \"/Users/phil/src/cordova/cordova-ios-enyo/build/UninstalledProducts/include\" \"/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE CordovaIosEnyo/CordovaIosEnyo-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH CordovaIosEnyo.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH CordovaIosEnyo.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/CordovaIosEnyo.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER phil    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/CordovaIosEnyo.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH CordovaIosEnyo.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal/i386/CordovaIosEnyo.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH CordovaIosEnyo.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12B19    setenv MAC_OS_X_VERSION_ACTUAL 1081    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0801    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Objects-normal    setenv OBJROOT /Users/phil/src/cordova/cordova-ios-enyo/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH CordovaIosEnyo.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/PkgInfo    setenv PKGINFO_PATH CordovaIosEnyo.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 50100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH CordovaIosEnyo.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH CordovaIosEnyo.app/PrivateHeaders    setenv PRODUCT_NAME CordovaIosEnyo    setenv PRODUCT_SETTINGS_PATH /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/CordovaIosEnyo-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT CordovaIosEnyo    setenv PROJECT_DERIVED_FILE_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/DerivedSources    setenv PROJECT_DIR /Users/phil/src/cordova/cordova-ios-enyo    setenv PROJECT_FILE_PATH /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo.xcodeproj    setenv PROJECT_NAME CordovaIosEnyo    setenv PROJECT_TEMP_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build    setenv PUBLIC_HEADERS_FOLDER_PATH CordovaIosEnyo.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH CordovaIosEnyo.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk    setenv SDK_NAME iphonesimulator5.1    setenv SDK_PRODUCT_BUILD_VERSION 9B176    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH CordovaIosEnyo.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH CordovaIosEnyo.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/phil/src/cordova/cordova-ios-enyo    setenv SRCROOT /Users/phil/src/cordova/cordova-ios-enyo    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/phil/src/cordova/cordova-ios-enyo/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME CordovaIosEnyo    setenv TARGET_BUILD_DIR /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build    setenv TARGET_NAME CordovaIosEnyo    setenv TARGET_TEMP_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build    setenv TEMP_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build    setenv TEMP_FILES_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build    setenv TEMP_FILE_DIR /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build    setenv TEMP_ROOT /Users/phil/src/cordova/cordova-ios-enyo/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH CordovaIosEnyo.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER phil    setenv USER_APPS_DIR /Users/phil/Applications    setenv USER_LIBRARY_DIR /Users/phil/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH CordovaIosEnyo.app/version.plist    setenv VERSION_INFO_BUILDER phil    setenv VERSION_INFO_FILE CordovaIosEnyo_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:CordovaIosEnyo  PROJECT:CordovaIosEnyo-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME CordovaIosEnyo.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4F1003    setenv XCODE_VERSION_ACTUAL 0441    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0440    setenv YACC yacc    /bin/sh -c /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/Script-304B58A110DAC018002A0835.sh36"C6C1A70F-2B26-4287-81A5-0E997963B093-
+
+CProcessInfoPlistFile /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Info.plist CordovaIosEnyo/CordovaIosEnyo-Info.plist
+s369082121.551222
+e369082121.574410
+r1
+xProcessInfoPlistFile
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Info.plist
+xCordovaIosEnyo/CordovaIosEnyo-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process CordovaIosEnyo/CordovaIosEnyo-Info.plistce388d09bfffb541^490f9309bfffb541^--1(21%IDEActivityLogMessage2@194"invalid character '_' in Bundle Identifier at column 20. This string must be a uniform type identifier (UTI) that contains only alphanumeric (A-Z,a-z,0-9), hyphen (-), and period (.) characters.102"Invalid character '_' in Bundle Identifier at column 20. This string must be a uniform type identifier369082121#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/CordovaIosEnyo-Info.plist0000000000000000^873"ProcessInfoPlistFile cordova/../build/CordovaIosEnyo.app/Info.plist CordovaIosEnyo/CordovaIosEnyo-Info.plist    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-infoPlistUtility CordovaIosEnyo/CordovaIosEnyo-Info.plist -genpkginfo /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app/Info.plist36"BC126036-456A-4158-9560-73E6F06FAA9B-
+
+CProcessPCH /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch.pth CordovaIosEnyo/CordovaIosEnyo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s369082132.970157
+e369082133.383574
+r1
+xProcessPCH
+x/var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch.pth
+xCordovaIosEnyo/CordovaIosEnyo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile CordovaIosEnyo/CordovaIosEnyo-Prefix.pch9d82f814bfffb541^40316215bfffb541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/CordovaIosEnyo-Prefix.pch0000000000000000^3887"ProcessPCH /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch.pth CordovaIosEnyo/CordovaIosEnyo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-generated-files.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-own-target-headers.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-all-target-headers.hmap -iquote /Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/CordovaIosEnyo-project-headers.hmap -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/include -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/usr/local/lib/include -I/Users/phil/src/cordova/cordova-ios-enyo/build/UninstalledProducts/include -I/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources/i386 -I/Users/phil/src/cordova/cordova-ios-enyo/build/CordovaIosEnyo.build/Debug-iphonesimulator/CordovaIosEnyo.build/DerivedSources -F/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build --serialize-diagnostics /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch.dia -c /Users/phil/src/cordova/cordova-ios-enyo/CordovaIosEnyo/CordovaIosEnyo-Prefix.pch -o /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/zp/g6jxpdyd5qbd6n6pwst4b8s00000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/CordovaIosEnyo-Prefix-apezvuwdlmqviecllntfpangvcpt/CordovaIosEnyo-Prefix.pch.d36"DA1A3CA1-7715-4823-BAF8-980D15931AA0-
+
+CTouch /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app
+s369082134.445694
+e369082134.453156
+r1
+xTouch
+x/Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Touch /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.appf8357216bfffb541^47037416bfffb541^---0#0#0#--585"Touch cordova/../build/CordovaIosEnyo.app    cd /Users/phil/src/cordova/cordova-ios-enyo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/phil/android-sdks/tools:/usr/pkg/bin:/usr/pkg/sbin:/Developer/usr/bin:/Users/phil/Workspace/Android/android-sdk-mac_x86/platform-tools:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /usr/bin/touch -c /Users/phil/src/cordova/cordova-ios-enyo/cordova/../build/CordovaIosEnyo.app36"3FF94CA6-87CB-4E6F-A47E-C0358EEDA798-
+
